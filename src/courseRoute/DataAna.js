@@ -2,7 +2,11 @@ import React from 'react'
 
 function DataAna() {
   return (
-    <div>DataAna</div>
+    <div>https://www.youtube.com/watch?v=BIMkPcPDiIM
+
+
+https://www.youtube.com/watch?v=n5DDwROSgrI
+    </div>
   )
 }
 
